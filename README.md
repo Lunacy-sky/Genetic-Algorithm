@@ -78,7 +78,7 @@ Varsayılan hiperparametreler: `N=50`, `pop_size=100`, `n_generations=70`, `muta
 
 ## Kurulum
 
-Python 3.8+ gereklidir.
+Python 3.8+ gereklidir. Gerekli kütüphaneler mevcut değilse aşağıdaki örnekteki gibi yüklenmelidir.
 
 ```bash
 pip install numpy matplotlib
